@@ -8,7 +8,7 @@ An Arduino-based robotic car that uses an ultrasonic sensor on a servo motor to 
 
 The provided demo video shows a black, circular robot moving on a tiled floor and a person interacting with it. The video appears to be a good representation of a project similar to this one.
 
-👉 [Demo video link here](https://youtu.be/FEy6YuiIQD8)
+👉 [Demo video link here](https://youtu.be/wVaxn0QrKxE)
 
 -----
 
