@@ -1,5 +1,3 @@
-Based on the code provided, here is a new README file for your project.
-
 # 🤖 Autonomous Obstacle Avoidance Robot with Servo Scanning
 
 An Arduino-based robotic car that uses an ultrasonic sensor on a servo motor to intelligently detect obstacles and navigate its environment.
@@ -98,10 +96,10 @@ The car constantly measures the distance to objects in front of it. When an obst
 
 Developed by:
 
-Anshul Dewangan
-Pratyaksh Lodhi
-Aaron David Don
-Joshua Benchamin
+  - **Anshul Dewangan**
+  - **Pratyaksh Lodhi**
+  - **Aaron David Don**
+  - **Joshua Benchamin**
 
 -----
 
@@ -114,4 +112,3 @@ This project is open-source and available under the [MIT License](https://www.go
 ## 📬 Contributions
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
-http://googleusercontent.com/youtube_content/0
